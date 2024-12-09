@@ -1,0 +1,17 @@
+/data
+  - historical_success_rates.csv
+  - spending_by_sector.csv
+  - strategy_effectiveness_metrics.csv
+  - timeline_analysis.csv
+/analysis
+  - methodology.md
+  - statistical_models.R
+  - visualization_scripts.py
+/docs
+  - README.md
+  - METHODOLOGY.md
+  - CONTRIBUTING.md
+/src
+  - data_processing/
+  - visualization/
+  - analysis/
